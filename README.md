@@ -28,18 +28,15 @@ cout << endl << "— Você é o futuro dessa instituição — declarou Oliver �
 cout << endl << " 'Café ou não, eis a questão...', você pensa." << endl << "O que me diz, Chloe?" << endl << "1. Aceita..." << endl << "2. Ou recusa?" << endl;
 cin >> escolha;
 
-if (escolha==1) {
+if (escolha==1){
 cout << endl << "— Uma dose não faz mal a ninguém, né? — Você diz." << endl << "— Essa é a velha e ousada Chole que conheço! — Pressionou o botão 'LIGAR' da cafeteira e encheu o segundo copo descartável de isopor — Você sabe do que quero falar agora, né?" << endl;
-cout << endl << "1.Como assim?" << endl;
-cout << "2. Sim, Oliver, e eu já disse que não!" << endl;
-cin >> escolha;
 }
 if (escolha==2) {
 cout << endl << "— Enlouqueceu de vez? Essas bebidas prejudicam o bebê. — Você protesta." << endl << "— Bom, se você diz... — Oliver abandonou o segundo copo descartável de isopor na bancada e caminhou paciente para as suas costas — Mas você sabe que temos de resolver umas pendências, certo? — Contornou-te à direita e sentou na cadeira." << endl;
+}
 cout << endl << "1.Como assim?" << endl;
 cout << "2. Sim, Oliver, e eu já disse que não!" << endl;
 cin >> escolha;
-}
 if (escolha==2) {
 cout << endl << "— Sim, Oliver, e eu já disse que não! — Você cruza os braços e força sua tonalidade vocal. Oliver espreme os lábios e espia os seus flancos discreto. Ele parecia repensar os passos que teria de aplicar, contigo. As medidas necessárias para satisfazer os desejos dele, e quiçá, de alguém superior na cadeia alimentar do escritório." << endl;
 cout << "— Escute, Chloe. Não é o tipo de oportunidade que aparece para todos. Entende isso, certo? — Ele torna a arriada cabeça para você — É como um cometa de milênios de intervalo para cortar o céu. O espaço — Suas mãos se conectavam num pêndulo rígido. As sobrancelhas, erguiam-se como de alguém que teme contar um desagrado." << endl;
@@ -116,6 +113,8 @@ cout << "A criatura abre a boca dela e de sua língua um eco se modula no ar:" <
 cout << "— Nunca mais...volte..." << endl;
 cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e privacidade, paciente. Um camaleão adaptando a vossa pele para se camuflar no cenário. Preto, preto, e sumiço completo." << endl;
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
+cout << endl << "...FIM DE JOGO..." << endl;
+cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
 }
 }
 
@@ -605,4 +604,3 @@ cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << end
 }
 return 0;
 }
-
