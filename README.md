@@ -234,6 +234,46 @@ cin >> escolha;
 if (escolha==2) {
 cout << endl << "— Ai, Oliver, deixa pra lá — Você menea a cabeça para baixo e reduz o volume da voz." << endl;
 cout << "— Ótimo... — Disse ele, sombrio. Virou seu copo e o jogou na lixeira à esquerda de seus pés — Até, amanhã, querida, às quatro — Acariciou o seu ombro direito e saiu." << endl;
+cout << endl << "Em seu apartamento de trinta metros quadrados, às onze horas da noite, você está sozinha. Escuta os seus batimentos cardíacos acelerados e o sangue fluindo nas veias. O ventilador roía rodopiando no teto. As luzes, resumidas a uma luminária que se avizinhava à esquerda do sofá, onde suas costas e pernas se deitavam, tendiam a uma hora se apagarem para sempre. A vossa frequência estava inconstante. Um sincero sentimento seu clama uma última travessura de Chloe Conway. Uma fuga." << endl;
+cout << endl << "1. Eu tenho de ir para a viagem..." << endl;
+cout << "2. Nem fodendo..." << endl;
+cin >> escolha;
+if (escolha==2) {
+cout << endl << "— Nem se me pagassem. Toda família tem uma mãe... — Você acaricia sua barriga, torna-se para a direita, encolhe-se, ignora a programação de horário do despertador, tenta adormecer, e ouve a maçaneta da porta destrancar..." << endl;
+cout << "Tom Boyle, jornalista secundário do canal sete. Dia onze de Abril de dois mil e três. Maine:" << endl;
+cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na madrugada desta sexta-feira assassinato à sangue frio no apartamento de Chloe Conway, jornalista mirim da NewsBang de vinte e três anos e grávida de um mês. Conforme as suspeitas dos médicos-legistas, o algoz de Chloe teria perfurado sua jugular com um caco de vidro. Este ao meu lado, é o delegado Bull, um dos descobridores desse terrível crime.'" << endl;
+cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
+cout << endl << "...FIM DE JOGO..." << endl;
+cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+}
+if (escolha==1) {
+cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
+cout << "— Ei, garota, vamos dar uma voltinha?" << endl;
+cout << "Você devolve o aceno e se aproxima dele e dos seus acompanhantes: Russus, Stephania e Josh." << endl;
+cout << "— Há de irmos, senhoras e senhores! Não temos nada a perder! — Oliver abriga Stephania e Josh num abraço e aponta para a porta do motorista para Russus — Você dirige, grandão!" << endl;
+cout << "A hora do nada, sua avó costumava se referir aos começos das manhãs. Você, Oliver, Stephania, Russus, Josh e a vã sprinter na qual haviam embarcado, atravessavam uma pista na hora do nada. As árvores e os tapetes de gramas que vos cercavam se camuflavam nas incertezas de um habitat de almas desorientadas. Segredos aparentavam viver nelas. Consumí-las dia-a-dia. Stephania, uma mulher gorducha de cintura larga e cabelo chanel, quebra sua hipnose com a Mão Natureza lhe cutucando o ombro direito do banco de trás." << endl;
+cout << "— Você está legal, Chloe? — Ela te questiona." << endl;
+cout << "— Sim, na medida do possível — Você reponde, presa às sombras que corriam pelas folhas, galhos e troncos." << endl;
+cout << "— Ah bom — Respira ela, aliviada — Porque com os cortes salariais que terão mês que vem, não sei se explodo ou espero para ver. Quer dizer... Nunca se sbae, né?..." << endl;
+cout << "As frases de Stephania se dispersam no ar como uma bolha de sabão que estoura. A...coisa... das florestas parecia estar se locomovendo para a pista com os braços felpudos e de três metros de comprimento, pernas similares as de um coelho e uma cabeça a qual os biólogos classificariam como a de um alce. Ela se anuncia esbarrando o tórax de uns quinhentos quilogramas na carcaça da vã." << endl;
+cout << "— Mas que porra é essa? — Josh exclama dos bancos traseiros." << endl;
+cout << "O volante foge dos dedos de Russus e, com as rodas e o peso da vã, capota. Você protege sua cabeça com os braços e ora para que tudo aquilo que está acontecendo não passasse de um pesadelo. A vã gira para fora da rua e se arrasta num morrinho de grama, de rodas e chassi para os ares." << endl;
+cout << "— Caralho, caralho! — Soa a vagarosa voz fantasmagórica de Oliver, no banco do copiloto. Sua visão, embaçada, induz que ele estaria sacando um revólver do porta-luvas, ou tentando sacar." << endl;
+cout << "A criatura, porém, raptura-o da vã e o som de ossos e músculos estralando repercutem de prontidão. A mesma infelicidade acontece com Russus, Stephania e Josh, em respectivo. Você, e os frangalhos de consciência que lhe restavam, fita os flancos e desconecta seu cinto de segurança. Cai no ex-tetp da vã e se arrasta para as portas-duplas da traseira dela. Sua respiração falha e o mundo borra feito um efeito psicodélico em espiral. Sobras de carne caem à sua esquerda. O sangue fresco delas pintam o gramado de um vermelho escarlate horrendo." << endl;
+cout << "— Meu Deus! Meu Deus! — Você grita para Deus. O único salvador que poderia te oferecer uma mão para a terra do descanso eterno com ternura." << endl;
+cout << "O braço da criatura invade a vã em sua porta-dupla traseira, agarra-te e joga você de costas para o solo. Seus músculos eletrificam de dor e a garganta implodia para gritar." << endl;
+cout << "— Não, não! Merda, merda! Caralho! — Com os doloridos das suas pernas, você recua o corpo um centímetro — Por favor... — Fluídos vermelhos frescos escorriam da sua testa para se misturar às lágrimas e aos catarros." << endl;
+cout << "A criatura se assemelha a um gárgula. Observando-te do cume do chassi. Os globos oculares brilhantes de um laranja-âmbar neon. Chifres enfeitados com sebo e lodo. Dentes ossudos manchados de sangue e encrustados de pedaços de pele dos seus colegas de escritório. Observando-te, como uma diversão, um hobbie. Ela desce da vã e vaga parcimoniosa para você, leve a cabeça dela à sua, e respira. Dois jatos de ar nublado das narinas." << endl;
+cout << "— Deus,Deus, por favor... Cuide do Harold, cuide... A ti eu temo — Você sussurra nos pensamentos. Falha. Frágil." << endl;
+cout << "O dedo indicador esquerdo da criatura, com uma pontiaguda e envergada unha preta embutida nele, move-se em direção a sua barriga e a cutuca. Como uma criança ansiosa deduzindo qual seria o seu presente de aniversário." << endl;
+cout << "Você está ofegante, o coração descompassado. Órbitas oculares latejantes, e uma ânsia de vômito preocupante. Sujeita a quaisquer reviravoltas. Quaisquer alucinações." << endl;
+cout << "A criatura abre a boca dela e de sua língua um eco se modula no ar:" << endl;
+cout << "— Nunca mais...volte..." << endl;
+cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e privacidade, paciente. Um camaleão adaptando a vossa pele para se camuflar no cenário. Preto, preto, e sumiço completo." << endl;
+cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
+cout << endl << "...FIM DE JOGO..." << endl;
+cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+}
 }
 if (escolha==1) {
 cout << endl << "— Não sei, devem ser. Vai saber, né, porra? — Ríspida, você gesticula sinais agressivos com as mãos. Seu semblante está ouriçando e empertigado para Oliver." << endl;
@@ -604,3 +644,4 @@ cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << end
 }
 return 0;
 }
+
