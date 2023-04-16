@@ -66,6 +66,7 @@ cout << "— Permita que eu finalize essa garotinha mal-criada para você, Russu
 cout << "Oliver aponta o cano da revólver de pressão preto quatro ponto cinco dele para o seu estirado corpo, e dispara cinco rajadas. Duas no pescoço e no peito, e uma no rosto." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "— Tudo bem, tudo bem! — Você o interrompe, incomodada. Sua consciência apita alertas vermelhos no breu de um palco teatral." << endl;
@@ -87,6 +88,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -115,6 +117,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 
@@ -142,6 +145,7 @@ cout << "— Permita que eu finalize essa garotinha mal-criada para você, Russu
 cout << "Oliver aponta o cano da revólver de pressão preto quatro ponto cinco dele para o seu estirado corpo, e dispara cinco rajadas. Duas no pescoço e no peito, e uma no rosto." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==2) {
 cout << endl << "— Uma família que está vindo. Meu namorado, pais... tudo, Oliver. Não entende? — Você se firma com um alavanque vocal polido, de olhos ficcionados nos dele." << endl;
@@ -164,6 +168,7 @@ cout << "— Permita que eu finalize essa garotinha mal-criada para você, Russu
 cout << "Oliver aponta o cano da revólver de pressão preto quatro ponto cinco dele para o seu estirado corpo, e dispara cinco rajadas. Duas no pescoço e no peito, e uma no rosto." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "— Tudo bem, tudo bem! — Você o interrompe, incomodada. Sua consciência apita alertas vermelhos no breu de um palco teatral." << endl;
@@ -185,6 +190,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -213,13 +219,15 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 }
 }
 }
 
-if (escolha==1) {
+else
+    {
 cout << endl << "— Como assim? — Seus olhos se arregalam para Oliver." << endl;
 cout << endl << "— A gravidez engorda, não te faz perder a memória — Ele se senta na cadeira e bebe um gole do café expresso de avelã com caramelo. O cheiro dele te enoja." << endl;
 cout << endl << "1. Tanto faz. Desde que você tome essa coisa rápido..." << endl;
@@ -245,6 +253,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -273,6 +282,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 if (escolha==1) {
@@ -295,6 +305,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -323,6 +334,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 
 }
@@ -350,6 +362,7 @@ cout << "— Permita que eu finalize essa garotinha mal-criada para você, Russu
 cout << "Oliver aponta o cano da revólver de pressão preto quatro ponto cinco dele para o seu estirado corpo, e dispara cinco rajadas. Duas no pescoço e no peito, e uma no rosto." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "— Tudo bem, tudo bem! — Você o interrompe, incomodada. Sua consciência apita alertas vermelhos no breu de um palco teatral." << endl;
@@ -371,6 +384,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -399,6 +413,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 
@@ -428,6 +443,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -456,6 +472,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 if (escolha==2) {
@@ -479,6 +496,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -507,6 +525,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 if (escolha==2) {
@@ -541,6 +560,7 @@ cout << "— Permita que eu finalize essa garotinha mal-criada para você, Russu
 cout << "Oliver aponta o cano da revólver de pressão preto quatro ponto cinco dele para o seu estirado corpo, e dispara cinco rajadas. Duas no pescoço e no peito, e uma no rosto." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "— Tudo bem, tudo bem! — Você o interrompe, incomodada. Sua consciência apita alertas vermelhos no breu de um palco teatral." << endl;
@@ -562,6 +582,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -590,6 +611,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 }
@@ -608,6 +630,7 @@ cout << " '— Os policiais de uma viatura da delegacia de Bangor relataram na m
 cout << " '— Nós... não tínhamos nada a fazer além de prestar condolências e orações para a alma dela... Quando chegamos ao apartamento, o sangue dela estava... grudento, e o rosto sem vida... que Deus proteja o nosso país.' " << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 if (escolha==1) {
 cout << endl << "Às quatro da madrugada do dia trinta e um de março de abril de dois mil e três, você desperta com o alarme penetrante do despertador em seus ouvidos. Anda para o banheiro para retocar a maquiagem e pentear o cabelo. Na fachada da NewsBang, Oliver, junto a dois homens e uma mulher de sobretudo, acena para você e grita, com as mãos em concha ao lado da boca:" << endl;
@@ -636,6 +659,7 @@ cout << "Ela se tornou para a direita e voltou para o seu ambiente de breus e pr
 cout << "Você despenca sua cabeça na grama e aproveita a piedade dela para enfim respirar livre de ameaças. Você, a vã, e Savana, sua garotinha que viria a nascer em dois mil e quatro, pesando três quilos e aos prantos." << endl;
 cout << endl << "...FIM DE JOGO..." << endl;
 cout << "Reinicie a aplicação para usufruir dos seus outros destinos. " << endl;
+escolha=0
 }
 }
 }
